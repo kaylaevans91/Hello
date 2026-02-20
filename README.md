@@ -6,8 +6,8 @@ Technology has been my closest companion, a friend I have maintained since I was
 - **Associates of Science in Cybersecurity** - In Progress
   - Focus areas: Network Security,  Digital Forensics
   - Relevant coursework: Security Operations, Risk Management
-  -  
- 
+    
+ 0
 
 ## Job Experience
 
